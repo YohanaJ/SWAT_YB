@@ -1,4 +1,11 @@
 # SWAT_YB
+
+# Land use maps for Yerba Buena and surrounding areas (1988, 1999,2008 and 2017)
+
+This repository contains the raster used for land use change analysis.
+
+
+
 # SWAT Model Inputs for Yerba Buena Watershed
 
 This repository contains all the necessary input files and configuration settings for running the SWAT model in QGIS 3.16 specifically tailored for the Yerba Buena Watershed in Argentina. The provided inputs include raster data, climate and lookup files, and a shapefile containing the watershed outlet and modified parameters for accurate simulation.
