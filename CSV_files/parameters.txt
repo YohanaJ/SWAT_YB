@@ -1,0 +1,9 @@
+landuse value parameter
+frst 0.8 ovn
+frst 4 surlag
+frst 73 cnd2
+sugc 0.7 ovn
+sugc  82 cnd2
+sugc 4 surlag
+
+
