@@ -1,0 +1,8 @@
+Code Landcover
+0 Urban
+1 Herbaceous crops
+2 Forest
+3 Non native forest
+4 Grassland
+5 bare soil
+6 citrus crop
